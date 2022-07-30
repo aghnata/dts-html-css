@@ -1,0 +1,136 @@
+.about {
+    margin-top:100px;
+    margin-bottom: 120px;
+}
+
+.about-container {
+    width:80%;
+    margin:0 auto;
+}
+
+.about-title {
+    font-size:3.0em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.about-content-wrapper-1 {
+    width: 910px;
+    margin: 0 auto;
+    /*float:left;*/
+}
+
+.about-content-box-left {
+    width:450px;
+    position:relative;
+    display:inline-block;
+    float:left;
+    height:300px;
+    border-right: 3px solid #e9ecef;    
+}
+
+.about-content-box-right {
+    width:450px;
+    position:relative;
+    display:inline-block;
+    float:left;
+    height:300px;
+}
+
+.about-content-box-left-bottom {
+    width:450px;
+    position:relative;
+    display:inline-block;
+    float:left;
+    height:100px;
+    border-right: 3px solid #e9ecef;
+    margin-bottom: 200px;
+}
+
+.about-content-box-left-inside {
+    margin-right:100px;
+}
+
+.about-content-box-right-inside {
+    margin-left:100px;
+}
+
+.about-below-title {
+    font-style:italic;
+    text-align: center;
+    color:#6c7783;
+    margin-bottom: 60px;
+}
+
+.about-content-left-title {
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.about-content-right-title {
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+    
+}
+
+.about-content-left {
+    line-height: 25px;
+    color:#6c7783;
+    text-align: right;
+}
+
+.about-content-right {
+    line-height: 25px;
+    color:#6c7783;
+    
+}
+
+.content-image-top {
+    position: absolute;
+    top:0px;
+    right:-78px;
+    z-index:10;
+    
+    
+}
+
+.about-thumbnail-image {
+    width:140px;
+    height:140px;
+    border-radius:50%;
+    border: 8px solid #e9ecef;
+}
+
+.about-content-bottom {
+    position: absolute;
+    top:0px;
+    right:-78px;
+    width:140px;
+    height:140px;
+    border-radius: 50%;
+    border: 8px solid #e9ecef;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   
+    color:#fff;
+    background-color: #ffc800;
+    z-index: 10;
+}
+
+.about-content-bottom-text {
+    display: inline-block;
+    font-size:1.1em;
+    font-weight: bold;
+    margin-top:35px;
+    line-height:22px;
+}
